@@ -13,6 +13,16 @@ body {
 
 }
 
+
+.cover{
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 2000;
+    background-color: #4b187e;
+}
+
 html{
     font-size: 10px;
     font-family: 'Nunito', sans-serif;
